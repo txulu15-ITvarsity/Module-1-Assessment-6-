@@ -1,0 +1,35 @@
+#menu{
+    width:100%;
+    height:40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+#menu a{
+    color:#ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration:none;
+    font-weight: 800px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+     color: #5077bd;
+}
+
+table{
+    font-family : Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width   : 1px;
+    border-style   : solid;
+    border-color   : #4826a670;
+}
+
+th {
+    font-weight: 800;
+    background-color: #4826a670;
+    color           : hsla(0, 0%, 100%, 0.918);
+}
